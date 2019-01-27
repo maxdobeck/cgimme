@@ -20,7 +20,7 @@ Use "cgimme [command] --help" for more information about a command.
 ```
 
 ### Why?
-Cobra is usper useful!  It has an additional generator on top of the usage of [spf13/pflag](https://github.com/spf13/pflag) for [UNIX style flags](http://www.gnu.org/software/libc/manual/html_node/Argument-Syntax.html).  But with maxdobeck/gimme I wanted a nice and simple, low dependency, cli.  There's always a tradeoff between dependencies and development time.
+Cobra is super useful!  It has an additional generator on top of the usage of [spf13/pflag](https://github.com/spf13/pflag) for [UNIX style flags](http://www.gnu.org/software/libc/manual/html_node/Argument-Syntax.html).  But with [maxdobeck/gimme](https://github.com/maxdobeck/gimme) I wanted a nice and simple, low dependency, cli.  There's always a tradeoff between dependencies and development time.
 
 This is sort of an expirement and so far I'm already seeing potential issues, almost literally.  Every open Issue with spf13/cobra is a potential headache for me down the road.  If no one maintains the repo then we're in trouble.  
 
